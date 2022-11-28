@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me an email <-- in my bio
 
-I just started my journey in programming and web development and i spend most of spare time doing coding and finding useful ideas in social media and in other coding platforms. 
+I just started my journey in programming and web development and i spend most of spare time doing coding and finding useful ideas in social media and in other coding platforms.i currently studying in st. john paul ll college of davao as information technology 1st year student. 
 
 <!---
 DevPHNewbie/DevPHNewbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
